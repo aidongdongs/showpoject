@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c1d65c0-90c4-4f04-9edd-6e45ca87611b" name="Changes" comment="变更">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/show/Huangwei.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +30,7 @@
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\jar\apache-maven-3.6.1\repository" />
         <option name="mavenHome" value="$PROJECT_DIR$/../../../jar/apache-maven-3.6.1" />
+        <option name="useMavenConfig" value="true" />
         <option name="userSettingsFile" value="D:\jar\apache-maven-3.6.1\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -58,7 +59,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.ignored.files"
+    "settings.editor.selected.configurable": "MavenSettings"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -69,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680250135020</updated>
-      <workItem from="1680250136454" duration="1307000" />
+      <workItem from="1680250136454" duration="2368000" />
     </task>
     <task id="LOCAL-00001" summary="变更">
       <created>1680250205738</created>
@@ -99,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680251314127</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="变更">
+      <created>1680251450080</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680251450080</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
