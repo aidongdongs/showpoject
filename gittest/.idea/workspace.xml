@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3c1d65c0-90c4-4f04-9edd-6e45ca87611b" name="Changes" comment="变更">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/show/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/show/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680250135020</updated>
-      <workItem from="1680250136454" duration="799000" />
+      <workItem from="1680250136454" duration="1169000" />
     </task>
     <task id="LOCAL-00001" summary="变更">
       <created>1680250205738</created>
@@ -85,11 +86,29 @@
       <option name="project" value="LOCAL" />
       <updated>1680250317134</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="变更">
+      <created>1680250974701</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680250974701</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
